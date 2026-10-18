@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Madiha ~
 
-<!--
-**MadihaShaikh15/MadihaShaikh15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer from Pune, India. I enjoy building APIs, working with databases, and turning ideas into functional applications.
 
-Here are some ideas to get you started:
+## What I work with
+- **Languages:** Python, Java, JavaScript, SQL
+- **Backend:** FastAPI 
+- **Database:** PostgreSQL, Supabase
+- **Tools:** Git, GitHub, VS Code 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I've built
+- **GigSphere:** GigSphere: student freelancing marketplace (React, FastAPI, Supabase/PostgreSQL). Built the backend: proposal workflow, admin validation, JWT-based role checks.
+- **Smart Telemedicine & Pharmacy Management System:** A database-driven platform for managing consultations and pharmacy records using PostgreSQL.
+
+## Currently
+Going deeper into backend development, building projects, and looking for backend development internships and entry-level opportunities.
+
+## Let's connect
+[LinkedIn](https://linkedin.com/in/madihashaikh15) · [Email](mailto:its.madihashaikh15@gmail.com)
